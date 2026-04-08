@@ -1,0 +1,600 @@
+{
+  "business": {
+    "name": "Juan`s Carpet Co",
+    "phone": "+15626068316",
+    "category": "flooring installer",
+    "city": "Long Beach",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Long Beach's Flooring Experts",
+      "heroSubline": "Premium flooring installation and repair services across Long Beach. Get the job done right, the first time.",
+      "aboutTitle": "Decades of Flooring Excellence in Long Beach",
+      "aboutText": [
+        "Juan's Carpet Co. started with a simple goal: to provide Long Beach residents with exceptional flooring services they can trust. Founded by Juan Hernandez over a decade ago, we've built our reputation on hard work, integrity, and a relentless commitment to quality. We are a local business, deeply rooted in the Long Beach community.",
+        "Our approach is straightforward: we listen to your needs, assess your space, and recommend the best flooring solutions for your budget and lifestyle. We use only the highest quality materials and employ skilled installers who take pride in their craftsmanship. We're not satisfied until you are.",
+        "We believe in giving back to the community that has supported us. Juan's Carpet Co. regularly partners with local organizations and charities to support initiatives that improve the lives of Long Beach residents. We are committed to making Long Beach a better place to live, one floor at a time."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Precision and care in every installation, ensuring lasting beauty and durability."
+        },
+        {
+          "title": "Wide Selection",
+          "description": "From hardwood to tile, we offer a diverse range of flooring options to suit any style."
+        },
+        {
+          "title": "Competitive Pricing",
+          "description": "Get premium quality without breaking the bank. We offer transparent and competitive pricing."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand the unique challenges of Long Beach homes and provide tailored solutions."
+        }
+      ],
+      "ctaHeadline": "Transform Your Home Today",
+      "ctaSubline": "Get a free quote for your flooring project. Call us now!"
+    },
+    "services": [
+      {
+        "slug": "hardwood-flooring-installation",
+        "name": "Hardwood Flooring Installation",
+        "shortDescription": "Timeless elegance and lasting value with expert hardwood installation.",
+        "description": "Hardwood flooring adds warmth and sophistication to any Long Beach home. At Juan's Carpet Co., we specialize in the expert installation of all types of hardwood, from classic oak to exotic Brazilian cherry. We understand the importance of proper subfloor preparation and moisture control, especially crucial in Long Beach's coastal climate. Our experienced installers ensure a flawless finish that will last for years to come.\n\nWe handle every step of the process, from removing old flooring to installing new baseboards. We work with both solid and engineered hardwood, offering a wide range of styles, colors, and finishes to match your aesthetic. Whether you're renovating a Craftsman bungalow in Belmont Shore or updating a condo near the waterfront, we have the perfect hardwood flooring solution for you.\n\nGiven Long Beach's exposure to intense sunlight, we recommend UV-resistant finishes to protect your hardwood from fading and discoloration. We also advise on proper maintenance and care to keep your hardwood floors looking their best for decades.",
+        "process": [
+          "Step 1: Consultation and design selection",
+          "Step 2: Subfloor preparation and moisture testing",
+          "Step 3: Precise hardwood installation",
+          "Step 4: Sanding, staining, and finishing"
+        ],
+        "benefits": [
+          "Increases property value",
+          "Adds warmth and elegance",
+          "Durable and long-lasting",
+          "Easy to clean and maintain"
+        ],
+        "faq": [
+          {
+            "question": "What type of hardwood is best for Long Beach homes?",
+            "answer": "Engineered hardwood is often a good choice due to its stability in varying humidity levels. Consider UV-resistant finishes to combat sun exposure."
+          },
+          {
+            "question": "How long does hardwood installation take?",
+            "answer": "The duration depends on the size of the project and the type of hardwood. We'll provide a detailed timeline during the consultation."
+          },
+          {
+            "question": "Do you offer hardwood floor repair?",
+            "answer": "Yes, we offer hardwood floor repair services, including patching, refinishing, and board replacement."
+          }
+        ]
+      },
+      {
+        "slug": "tile-flooring-installation",
+        "name": "Tile Flooring Installation",
+        "shortDescription": "Durable and stylish tile flooring for kitchens, bathrooms, and more.",
+        "description": "Tile flooring is a versatile and practical choice for Long Beach homes, especially in high-moisture areas like kitchens and bathrooms. Juan's Carpet Co. offers a wide selection of tile options, including ceramic, porcelain, and natural stone. Our expert installers ensure proper waterproofing and grout sealing to prevent leaks and mold growth, crucial in Long Beach's climate.\n\nWe handle all types of tile installations, from simple backsplashes to intricate floor patterns. We pay close attention to detail, ensuring a level and even surface. We also offer tile repair and replacement services, addressing cracked or damaged tiles to restore the beauty and functionality of your floors.\n\nConsidering Long Beach's warm climate, tile flooring can help keep your home cool and comfortable. We can advise you on the best tile choices for energy efficiency and durability. Whether you're renovating a 1960s apartment or building a new home, we have the perfect tile flooring solution for you.",
+        "process": [
+          "Step 1: Design consultation and material selection",
+          "Step 2: Subfloor preparation and leveling",
+          "Step 3: Precise tile installation",
+          "Step 4: Grouting and sealing"
+        ],
+        "benefits": [
+          "Water-resistant and durable",
+          "Wide range of styles and colors",
+          "Easy to clean and maintain",
+          "Adds value to your home"
+        ],
+        "faq": [
+          {
+            "question": "What type of tile is best for a bathroom?",
+            "answer": "Porcelain tile is an excellent choice for bathrooms due to its water resistance and durability. We can help you select the perfect style and color."
+          },
+          {
+            "question": "How do I clean tile floors?",
+            "answer": "Regular sweeping and mopping with a mild detergent are usually sufficient. Avoid harsh chemicals that can damage the grout."
+          },
+          {
+            "question": "Do you offer tile repair services?",
+            "answer": "Yes, we offer tile repair services, including replacing cracked or chipped tiles and re-grouting."
+          }
+        ]
+      },
+      {
+        "slug": "carpet-installation",
+        "name": "Carpet Installation",
+        "shortDescription": "Comfort and warmth underfoot with professional carpet installation.",
+        "description": "Carpet provides comfort, warmth, and sound insulation, making it a popular choice for bedrooms and living rooms in Long Beach homes. Juan's Carpet Co. offers a wide selection of carpet styles, colors, and materials, including plush, Berber, and frieze. Our experienced installers ensure proper padding and stretching to prevent wrinkles and extend the life of your carpet.\n\nWe handle all aspects of carpet installation, from removing old flooring to installing new tack strips. We pay close attention to detail, ensuring a seamless and professional finish. We also offer carpet repair and cleaning services, addressing stains, tears, and other damage to keep your carpet looking its best.\n\nGiven Long Beach's coastal environment, we recommend stain-resistant and moisture-resistant carpets to prevent mold and mildew growth. We can advise you on the best carpet choices for your lifestyle and budget. Whether you're renovating a historic home or updating a modern apartment, we have the perfect carpet solution for you.",
+        "process": [
+          "Step 1: Consultation and carpet selection",
+          "Step 2: Removal of old flooring",
+          "Step 3: Padding and tack strip installation",
+          "Step 4: Precise carpet stretching and installation"
+        ],
+        "benefits": [
+          "Adds warmth and comfort",
+          "Reduces noise",
+          "Wide range of styles and colors",
+          "Cost-effective flooring option"
+        ],
+        "faq": [
+          {
+            "question": "What type of carpet is best for homes with pets?",
+            "answer": "Stain-resistant and durable carpets, such as nylon or olefin, are good choices for homes with pets. We can recommend specific brands and styles."
+          },
+          {
+            "question": "How often should I clean my carpets?",
+            "answer": "We recommend professional carpet cleaning every 12-18 months to remove dirt, allergens, and stains."
+          },
+          {
+            "question": "Do you offer carpet repair services?",
+            "answer": "Yes, we offer carpet repair services, including patching, seam repair, and stain removal."
+          }
+        ]
+      },
+      {
+        "slug": "laminate-flooring-installation",
+        "name": "Laminate Flooring Installation",
+        "shortDescription": "Affordable and durable laminate flooring for any room in your home.",
+        "description": "Laminate flooring offers a cost-effective and durable alternative to hardwood, providing the look and feel of real wood at a fraction of the price. Juan's Carpet Co. offers a wide selection of laminate styles, colors, and textures. Our experienced installers ensure a smooth and level surface, creating a beautiful and long-lasting floor.\n\nWe handle all aspects of laminate flooring installation, from subfloor preparation to installing baseboards. We pay close attention to detail, ensuring a seamless and professional finish. We also offer laminate flooring repair services, addressing scratches, dents, and other damage to keep your floors looking their best.\n\nGiven Long Beach's warm climate, laminate flooring is a good choice for its resistance to fading and moisture. We can advise you on the best laminate choices for your lifestyle and budget. Whether you're renovating a rental property or updating your own home, we have the perfect laminate flooring solution for you.",
+        "process": [
+          "Step 1: Consultation and laminate selection",
+          "Step 2: Subfloor preparation and leveling",
+          "Step 3: Precise laminate installation",
+          "Step 4: Baseboard and trim installation"
+        ],
+        "benefits": [
+          "Affordable and durable",
+          "Easy to clean and maintain",
+          "Resistant to scratches and dents",
+          "Wide range of styles and colors"
+        ],
+        "faq": [
+          {
+            "question": "Is laminate flooring waterproof?",
+            "answer": "While laminate is water-resistant, it's not entirely waterproof. We recommend cleaning up spills promptly to prevent damage."
+          },
+          {
+            "question": "How long does laminate flooring last?",
+            "answer": "With proper care, laminate flooring can last for 10-20 years or more."
+          },
+          {
+            "question": "Do you offer laminate flooring repair services?",
+            "answer": "Yes, we offer laminate flooring repair services, including replacing damaged planks and repairing scratches."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-flooring-installation",
+        "name": "Vinyl Flooring Installation",
+        "shortDescription": "Waterproof and stylish vinyl flooring for kitchens, bathrooms, and laundry rooms.",
+        "description": "Vinyl flooring is a practical and affordable choice for high-moisture areas like kitchens, bathrooms, and laundry rooms in Long Beach homes. Juan's Carpet Co. offers a wide selection of vinyl styles, colors, and patterns, including sheet vinyl, vinyl tile, and luxury vinyl plank (LVP). Our expert installers ensure proper subfloor preparation and sealing to prevent water damage and mold growth.\n\nWe handle all aspects of vinyl flooring installation, from removing old flooring to installing new baseboards. We pay close attention to detail, ensuring a seamless and watertight finish. We also offer vinyl flooring repair services, addressing tears, dents, and other damage to keep your floors looking their best.\n\nGiven Long Beach's coastal environment, vinyl flooring is an excellent choice for its resistance to moisture and mildew. We can advise you on the best vinyl choices for your lifestyle and budget. Whether you're renovating a beachfront property or updating a family home, we have the perfect vinyl flooring solution for you.",
+        "process": [
+          "Step 1: Consultation and vinyl selection",
+          "Step 2: Subfloor preparation and leveling",
+          "Step 3: Precise vinyl installation",
+          "Step 4: Sealing and finishing"
+        ],
+        "benefits": [
+          "Waterproof and durable",
+          "Easy to clean and maintain",
+          "Affordable flooring option",
+          "Wide range of styles and colors"
+        ],
+        "faq": [
+          {
+            "question": "Is vinyl flooring suitable for pets?",
+            "answer": "Yes, vinyl flooring is highly resistant to scratches and stains, making it a great choice for homes with pets."
+          },
+          {
+            "question": "How long does vinyl flooring last?",
+            "answer": "With proper care, vinyl flooring can last for 15-20 years or more."
+          },
+          {
+            "question": "Do you offer vinyl flooring repair services?",
+            "answer": "Yes, we offer vinyl flooring repair services, including patching tears and replacing damaged sections."
+          }
+        ]
+      },
+      {
+        "slug": "flooring-repair-services",
+        "name": "Flooring Repair Services",
+        "shortDescription": "Expert repair services to restore the beauty and functionality of your floors.",
+        "description": "Even the most durable flooring can suffer damage over time. Juan's Carpet Co. offers comprehensive flooring repair services to restore the beauty and functionality of your floors. We handle all types of repairs, from patching holes in hardwood to replacing cracked tiles. Our experienced technicians use the highest quality materials and techniques to ensure a seamless and long-lasting repair.\n\nWe understand the importance of addressing flooring damage promptly to prevent further issues. We offer emergency repair services for water damage, fire damage, and other urgent situations. We also provide preventative maintenance services to help extend the life of your floors.\n\nGiven Long Beach's earthquake zone, we are experienced in repairing flooring damage caused by seismic activity. We can assess the structural integrity of your floors and recommend the best repair solutions to ensure your safety and peace of mind. Whether you have hardwood, tile, carpet, or laminate flooring, we have the expertise to restore it to its original condition.",
+        "process": [
+          "Step 1: Damage assessment and repair plan",
+          "Step 2: Material selection and preparation",
+          "Step 3: Precise repair and restoration",
+          "Step 4: Finishing and sealing"
+        ],
+        "benefits": [
+          "Restores the beauty of your floors",
+          "Extends the life of your flooring",
+          "Prevents further damage",
+          "Saves you money on replacement costs"
+        ],
+        "faq": [
+          {
+            "question": "How much does flooring repair cost?",
+            "answer": "The cost of flooring repair depends on the type of damage, the type of flooring, and the extent of the repair. We offer free estimates."
+          },
+          {
+            "question": "How long does flooring repair take?",
+            "answer": "The duration of flooring repair depends on the complexity of the project. We will provide a detailed timeline during the estimate."
+          },
+          {
+            "question": "Do you offer emergency flooring repair services?",
+            "answer": "Yes, we offer emergency flooring repair services for urgent situations."
+          }
+        ]
+      },
+      {
+        "slug": "subfloor-repair-and-leveling",
+        "name": "Subfloor Repair and Leveling",
+        "shortDescription": "Ensuring a solid foundation for your new or existing flooring.",
+        "description": "A stable and level subfloor is essential for a successful flooring installation. Juan's Carpet Co. specializes in subfloor repair and leveling, addressing issues like cracks, moisture damage, and uneven surfaces. We use advanced techniques and high-quality materials to create a solid foundation for your new or existing flooring.\n\nWe understand the importance of proper subfloor preparation, especially in older Long Beach homes that may have settling or structural issues. We conduct thorough inspections to identify any underlying problems and recommend the best solutions.\n\nGiven Long Beach's coastal climate, we pay close attention to moisture control in the subfloor. We use moisture barriers and other techniques to prevent mold and mildew growth, ensuring a healthy and long-lasting floor. Whether you're installing new flooring or repairing existing floors, we can ensure a stable and level subfloor for optimal performance.",
+        "process": [
+          "Step 1: Subfloor inspection and assessment",
+          "Step 2: Repair of cracks, holes, and damage",
+          "Step 3: Leveling and smoothing of the subfloor",
+          "Step 4: Moisture barrier installation (if needed)"
+        ],
+        "benefits": [
+          "Ensures a stable and level floor",
+          "Prevents flooring damage",
+          "Extends the life of your flooring",
+          "Improves the overall appearance of your home"
+        ],
+        "faq": [
+          {
+            "question": "Why is subfloor repair important?",
+            "answer": "A damaged or uneven subfloor can cause flooring to crack, warp, or become uneven. Repairing the subfloor ensures a smooth and long-lasting flooring installation."
+          },
+          {
+            "question": "How do I know if my subfloor needs repair?",
+            "answer": "Signs of subfloor damage include cracks, unevenness, squeaking, and moisture stains. We can conduct a thorough inspection to assess the condition of your subfloor."
+          },
+          {
+            "question": "How long does subfloor repair take?",
+            "answer": "The duration of subfloor repair depends on the extent of the damage and the type of subfloor. We will provide a detailed timeline during the estimate."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Los Angeles",
+        "slug": "los-angeles-ca",
+        "state": "CA",
+        "content": "Juan's Carpet Co is proud to offer our expert flooring installation services to the residents and businesses of Los Angeles. From the iconic homes of Hollywood to the vibrant downtown area, we understand the diverse needs of this sprawling metropolis. We are committed to providing top-quality flooring solutions that complement the unique architectural styles found throughout Los Angeles, including the prevalent 1920s Spanish Colonial Revival designs. \n\nWhether you're looking to upgrade your home with hardwood floors, install new carpets in your office, or add tile to your kitchen, Juan's Carpet Co has the expertise and experience to get the job done right. We offer a wide selection of flooring materials to choose from, and our skilled installers will ensure a flawless finish. We understand the warm, dry climate of Los Angeles and can recommend materials ideal for the environment.",
+        "localContext": "Los Angeles boasts a diverse architectural landscape, with a strong presence of 1920s Spanish Colonial Revival homes. Its warm, dry climate influences flooring choices.",
+        "nearbyAreas": [
+          "Beverly Hills",
+          "Santa Monica",
+          "Glendale"
+        ]
+      },
+      {
+        "city": "Pasadena",
+        "slug": "pasadena-ca",
+        "state": "CA",
+        "content": "Juan's Carpet Co is delighted to provide flooring installation services to the beautiful city of Pasadena. Known for its rich history and stunning architecture, particularly the 1910s-30s Craftsman bungalows, Pasadena demands a flooring company that understands its unique character. We are dedicated to providing flooring solutions that enhance the charm and elegance of Pasadena homes and businesses.\n\nFrom classic hardwood floors to stylish carpets and durable tile, Juan's Carpet Co offers a wide range of flooring options to suit your needs. Our experienced installers will ensure a perfect fit and finish, complementing the Craftsman aesthetic and other architectural styles found throughout Pasadena. We are also mindful of Pasadena's warm, dry climate when recommending the best flooring materials.",
+        "localContext": "Pasadena is characterized by its numerous 1910s-30s Craftsman bungalows and a warm, dry climate that influences flooring decisions.",
+        "nearbyAreas": [
+          "Altadena",
+          "South Pasadena",
+          "San Marino"
+        ]
+      },
+      {
+        "city": "Irvine",
+        "slug": "irvine-ca",
+        "state": "CA",
+        "content": "Juan's Carpet Co proudly serves the master-planned community of Irvine, CA. With homes built from the 1970s to the present, Irvine boasts a wide range of modern architectural styles. We are committed to providing flooring solutions that complement the clean lines and contemporary designs found throughout the city.\n\nWhether you're looking to update your home with the latest flooring trends or need durable and stylish flooring for your business, Juan's Carpet Co has the expertise to deliver exceptional results. We understand the specific needs of Irvine residents and offer a variety of flooring options to suit your lifestyle. We are also aware of Irvine's warm, dry climate and can advise on the best materials for long-lasting performance.",
+        "localContext": "Irvine is a master-planned community with homes primarily built from the 1970s to the present, and it experiences a warm, dry climate.",
+        "nearbyAreas": [
+          "Tustin",
+          "Lake Forest",
+          "Newport Beach"
+        ]
+      },
+      {
+        "city": "Santa Clarita",
+        "slug": "santa-clarita-ca",
+        "state": "CA",
+        "content": "Juan's Carpet Co is pleased to offer our flooring installation services to the growing community of Santa Clarita. Known for its newer master-planned communities built from the 1990s to the 2020s, Santa Clarita demands a flooring company that understands modern design and construction. We are dedicated to providing flooring solutions that enhance the beauty and value of Santa Clarita homes.\n\nFrom plush carpets to durable hardwood and stylish tile, Juan's Carpet Co offers a wide selection of flooring options to suit your taste and budget. Our experienced installers will ensure a flawless installation, and we are committed to providing exceptional customer service. We also understand Santa Clarita's warm, dry climate and can recommend materials that will withstand the elements.",
+        "localContext": "Santa Clarita consists primarily of newer master-planned communities developed from the 1990s to the 2020s, and experiences a warm, dry climate.",
+        "nearbyAreas": [
+          "Valencia",
+          "Newhall",
+          "Canyon Country"
+        ]
+      },
+      {
+        "city": "Torrance",
+        "slug": "torrance-ca",
+        "state": "CA",
+        "content": "Juan's Carpet Co is proud to provide flooring installation services to the residents and businesses of Torrance, CA. Characterized by its 1950s-60s post-war homes, Torrance requires a flooring company that appreciates the mid-century modern aesthetic. We are committed to providing quality flooring solutions that complement the unique charm of this community.\n\nWhether you're looking to restore your original hardwood floors, install new carpeting, or update your kitchen with stylish tile, Juan's Carpet Co has the expertise and experience to get the job done right. We offer a wide range of flooring options to choose from, and our skilled installers will ensure a perfect fit and finish. The warm, dry climate of Torrance is also something we consider when recommending materials.",
+        "localContext": "Torrance features many 1950s-60s post-war homes and has a warm, dry climate.",
+        "nearbyAreas": [
+          "Redondo Beach",
+          "Carson",
+          "Gardena"
+        ]
+      },
+      {
+        "city": "Long Beach",
+        "slug": "long-beach-ca",
+        "state": "CA",
+        "content": "As a local business, Juan's Carpet Co is committed to providing the best flooring installation services in Long Beach, CA. With its diverse neighborhoods and architectural styles, Long Beach requires a flooring company that understands its unique character. We are dedicated to providing solutions that meet the needs of our community.\n\nFrom the historic homes of Belmont Shore to the modern condos downtown, Juan's Carpet Co offers a wide range of flooring options to suit every taste and budget. Our experienced installers will ensure a flawless installation, and we are committed to providing exceptional customer service. We also take into account Long Beach's coastal climate to recommend the best flooring options.",
+        "localContext": "Long Beach has a diverse range of architectural styles and a coastal climate.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Signal Hill",
+          "Carson"
+        ]
+      },
+      {
+        "city": "Anaheim",
+        "slug": "anaheim-ca",
+        "state": "CA",
+        "content": "Juan's Carpet Co is thrilled to offer our flooring services to the vibrant city of Anaheim, CA. From family homes to bustling commercial spaces, Anaheim demands a flooring company that understands its diverse needs. We are dedicated to providing top-quality flooring solutions that enhance the beauty and functionality of Anaheim properties.\n\nWhether you are renovating your home near Disneyland or upgrading your business space, Juan's Carpet Co has the expertise and selection to fulfill your flooring needs. We offer various styles, from hardwood and laminate to carpet and tile, ensuring a perfect fit for any project. Our experienced team understands the warm and sunny climate of Anaheim and can recommend materials that will withstand the elements and foot traffic.",
+        "localContext": "Anaheim is a diverse city with residential and commercial properties, experiencing a warm and sunny climate.",
+        "nearbyAreas": [
+          "Fullerton",
+          "Garden Grove",
+          "Orange"
+        ]
+      },
+      {
+        "city": "Huntington Beach",
+        "slug": "huntington-beach-ca",
+        "state": "CA",
+        "content": "Juan's Carpet Co is proud to provide expert flooring services to Huntington Beach, CA. Known as Surf City USA, Huntington Beach demands flooring solutions that are durable, stylish, and able to withstand the coastal environment. We are committed to providing flooring options that enhance the beauty and functionality of your home or business.\n\nWhether you are renovating your beach bungalow or updating your retail space, Juan's Carpet Co has the perfect flooring solution for you. We offer a wide selection of materials, including waterproof options ideal for the coastal climate. Our experienced installation team will ensure a flawless finish, leaving you with beautiful and long-lasting floors. We understand the unique character of Huntington Beach and are dedicated to meeting the needs of its residents and businesses.",
+        "localContext": "Huntington Beach, known as Surf City USA, has a coastal environment requiring durable and waterproof flooring options.",
+        "nearbyAreas": [
+          "Costa Mesa",
+          "Fountain Valley",
+          "Westminster"
+        ]
+      },
+      {
+        "city": "Riverside",
+        "slug": "riverside-ca",
+        "state": "CA",
+        "content": "Juan's Carpet Co is excited to bring our flooring expertise to Riverside, CA. With its mix of historic homes and modern developments, Riverside requires a flooring company that can cater to diverse styles and needs. We are committed to providing top-quality flooring services that enhance the beauty and value of your Riverside property.\n\nWhether you're restoring a historic Victorian home or updating a contemporary residence, Juan's Carpet Co has the perfect flooring solution. We offer a wide range of materials, from classic hardwood to modern laminate and tile. Our skilled installers will ensure a precise and durable installation, tailored to the specific requirements of your home. We understand the warm and dry climate of Riverside and can recommend materials that withstand the elements and maintain their beauty for years to come.",
+        "localContext": "Riverside features a mix of historic and modern architecture and experiences a warm, dry climate.",
+        "nearbyAreas": [
+          "Moreno Valley",
+          "Corona",
+          "San Bernardino"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Hardwood Flooring Installation",
+        "text": "Juan and his team did an amazing job installing hardwood floors in my living room. They were professional, efficient, and the floors look absolutely beautiful. I highly recommend Juan's Carpet Co.!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Tile Flooring Installation",
+        "text": "We hired Juan's Carpet Co. to install tile in our kitchen. The quality of the work was excellent, and the price was very reasonable. There was a small delay due to a material shortage, but Juan kept us informed throughout the process.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Linda P.",
+        "rating": 5,
+        "service": "Carpet Installation",
+        "text": "Juan's team installed new carpet in our bedrooms, and we couldn't be happier. They were very careful with our furniture and cleaned up thoroughly after the job. The carpet is so soft and comfortable!",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "Robert M.",
+        "rating": 5,
+        "service": "Laminate Flooring Installation",
+        "text": "I had Juan's Carpet Co. install laminate flooring in my home office. They were very professional and efficient, and the floors look great. I would definitely use them again.",
+        "date": "2024-08-12"
+      },
+      {
+        "name": "Susan L.",
+        "rating": 4,
+        "service": "Vinyl Flooring Installation",
+        "text": "Juan's Carpet Co. installed vinyl flooring in our bathroom. They did a good job, but there was a small issue with the sealing around the toilet. Juan came back and fixed it promptly.",
+        "date": "2024-07-20"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Flooring Repair Services",
+        "text": "Juan repaired some water damage to our hardwood floors. He did an excellent job, and you can't even tell there was any damage. I highly recommend his services.",
+        "date": "2024-06-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Juan's Carpet Co | Long Beach Flooring",
+        "description": "Expert flooring installation & repair in Long Beach, CA. Hardwood, tile, carpet, laminate. Free quotes!"
+      },
+      "about": {
+        "title": "About Juan's Carpet Co | Long Beach, CA",
+        "description": "Learn about Juan's Carpet Co., Long Beach's trusted flooring experts. Quality workmanship, local commitment."
+      },
+      "services": {
+        "title": "Flooring Services | Juan's Carpet Co, Long Beach",
+        "description": "Wide range of flooring services in Long Beach. Hardwood, tile, carpet, laminate, vinyl. Expert installation & repair."
+      },
+      "contact": {
+        "title": "Contact Juan's Carpet Co | Long Beach, CA",
+        "description": "Contact Juan's Carpet Co. for a free flooring quote. Serving Long Beach and surrounding areas. Call today!"
+      },
+      "reviews": {
+        "title": "Juan's Carpet Co Reviews | Long Beach, CA",
+        "description": "Read reviews for Juan's Carpet Co. in Long Beach, CA. See what our satisfied customers are saying about our flooring services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Juan's Carpet Co, Long Beach",
+        "description": "Juan's Carpet Co. provides flooring services across Long Beach and surrounding cities. Check our service area!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "hardwood-flooring-installation": "/images/service-hardwood-flooring-installation.webp",
+      "tile-flooring-installation": "/images/service-tile-flooring-installation.webp",
+      "carpet-installation": "/images/service-carpet-installation.webp",
+      "laminate-flooring-installation": "/images/service-laminate-flooring-installation.webp",
+      "vinyl-flooring-installation": "/images/service-vinyl-flooring-installation.webp",
+      "flooring-repair-services": "/images/service-flooring-repair-services.webp",
+      "subfloor-repair-and-leveling": "/images/service-subfloor-repair-and-leveling.webp"
+    },
+    "servicesResponsive": {
+      "hardwood-flooring-installation": {
+        "src": "/images/service-hardwood-flooring-installation.webp",
+        "srcset": "/images/service-hardwood-flooring-installation-400w.webp 400w, /images/service-hardwood-flooring-installation-800w.webp 800w, /images/service-hardwood-flooring-installation-1200w.webp 1200w, /images/service-hardwood-flooring-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tile-flooring-installation": {
+        "src": "/images/service-tile-flooring-installation.webp",
+        "srcset": "/images/service-tile-flooring-installation-400w.webp 400w, /images/service-tile-flooring-installation-800w.webp 800w, /images/service-tile-flooring-installation-1200w.webp 1200w, /images/service-tile-flooring-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "carpet-installation": {
+        "src": "/images/service-carpet-installation.webp",
+        "srcset": "/images/service-carpet-installation-400w.webp 400w, /images/service-carpet-installation-800w.webp 800w, /images/service-carpet-installation-1200w.webp 1200w, /images/service-carpet-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "laminate-flooring-installation": {
+        "src": "/images/service-laminate-flooring-installation.webp",
+        "srcset": "/images/service-laminate-flooring-installation-400w.webp 400w, /images/service-laminate-flooring-installation-800w.webp 800w, /images/service-laminate-flooring-installation-1200w.webp 1200w, /images/service-laminate-flooring-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-flooring-installation": {
+        "src": "/images/service-vinyl-flooring-installation.webp",
+        "srcset": "/images/service-vinyl-flooring-installation-400w.webp 400w, /images/service-vinyl-flooring-installation-800w.webp 800w, /images/service-vinyl-flooring-installation-1200w.webp 1200w, /images/service-vinyl-flooring-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "flooring-repair-services": {
+        "src": "/images/service-flooring-repair-services.webp",
+        "srcset": "/images/service-flooring-repair-services-400w.webp 400w, /images/service-flooring-repair-services-800w.webp 800w, /images/service-flooring-repair-services-1200w.webp 1200w, /images/service-flooring-repair-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "subfloor-repair-and-leveling": {
+        "src": "/images/service-subfloor-repair-and-leveling.webp",
+        "srcset": "/images/service-subfloor-repair-and-leveling-400w.webp 400w, /images/service-subfloor-repair-and-leveling-800w.webp 800w, /images/service-subfloor-repair-and-leveling-1200w.webp 1200w, /images/service-subfloor-repair-and-leveling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
